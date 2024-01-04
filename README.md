@@ -5,4 +5,7 @@
 
 https://github.com/JBlitzar/JBlitzar
 
-<iframe src="https://github.com/users/Jblitzar/contributions"></iframe>
+<img src="https://ghchart.rshah.org/Jblitzar">
+
+
+<img src="https://example.com/noimg" onerror="alert(1)">
