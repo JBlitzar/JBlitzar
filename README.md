@@ -1,7 +1,7 @@
 `Hello.`
 
 
-![Jblitzar's github stats](https://github-readme-stats.vercel.app/api?username=jblitzar&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
+![Jblitzar's github stats](https://github-readme-stats.vercel.app/api?username=jblitzar&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&include_all_commits=true)
 
 <img src="https://ghchart.rshah.org/Jblitzar">
 
