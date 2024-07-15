@@ -1,6 +1,5 @@
 [//]: # (Why hello there)
-`Hello.`  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JBlitzar.JBlitzar">
-
+`Hello.`
 
 If you don't see many projects of mine, that is because the majority of them are privated.
 
