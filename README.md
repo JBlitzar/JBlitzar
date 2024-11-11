@@ -1,8 +1,8 @@
 [//]: # (e)
-`Hi!`
 
-If you don't see many projects of mine, that is because the majority of them are privated.
+# JBlitzar
 
+Hi there!
 
 
 <img src="https://komarev.com/ghpvc/?username=JBlitzar&label=Profile%20views&color=0e75b6&style=flat" alt="JBlitzar" />
