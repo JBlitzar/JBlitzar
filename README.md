@@ -10,7 +10,7 @@ Hi there!
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com?user=JBlitzar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JBlitzar&theme=transparent)]()
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jblitzar&theme=transparent) 
